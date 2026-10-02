@@ -1,6 +1,6 @@
-# flutter_practice_2
+# flutter_practice_1
 
-A new Flutter project.
+Flutter practical work 1
 
 ## Getting Started
 
